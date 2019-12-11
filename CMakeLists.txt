@@ -52,6 +52,7 @@ find_package(catkin REQUIRED COMPONENTS
    FILES
    PSR_Drive.msg
    Puppy_pos.msg
+   pfc.msg
  )
 
 ## Generate services in the 'srv' folder
